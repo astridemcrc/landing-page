@@ -1,0 +1,17 @@
+.band {
+	background-color: mistyrose;
+	margin: 32px;
+	padding: 12px;
+	text-align: center;
+}
+
+.band h1{
+	font-family: 'Source Serif Pro', serif;
+	font-size: 36px;
+	padding-top: 64px;
+}
+
+.band h2{
+	font-family: 'Source Serif Pro', serif;
+	padding-top: 32px;
+}

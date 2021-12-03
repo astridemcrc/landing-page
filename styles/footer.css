@@ -1,0 +1,31 @@
+.footer {
+	display: grid;
+	grid-template-columns:1fr 1fr 1fr;	
+	margin: 4px 0px;
+	background-color : violet;
+	color: black;
+	text-align: center;
+	padding: 16px 0px;
+}
+
+.plus{
+	padding: 5px;
+	text-align: center;
+	justify-self: center;
+	margin-bottom: 4px;
+	border-radius: 4px;
+	border: solid 1px #00000040;
+	box-shadow: #00000040 2px 2px 8px 1px;
+}
+
+@media (min-width: 992px) {
+	.plus{
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (min-width: 1200px) {
+	.plus{
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
