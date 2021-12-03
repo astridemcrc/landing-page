@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital@1&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+@import url(band.css);
+@import url(banner.css);
+@import url(bottom.css);
+@import url(content.css);
+@import url(cards.css);
+@import url(discover.css);
+@import url(footer.css);
+@import url(list_inline.css);
+@import url(navbar.css);
+@import url(noel_button.css);
+@import url(produits.css);
+@import url(top.css);
+
+body{
+	background-color: mistyrose;
+	margin: 0px;
+}

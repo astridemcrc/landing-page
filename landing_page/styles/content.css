@@ -1,0 +1,11 @@
+.content{
+	list-style: none;
+	font-size: 24px;
+	margin-top: 12px;
+}
+
+.content a{
+	color: black;
+	font-family: 'Source Serif Pro', serif;
+	text-decoration: underline;
+}
